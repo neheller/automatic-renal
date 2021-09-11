@@ -2,7 +2,7 @@
 
 This repository contains an algorithm which computes the RENAL nephrometry score based on a CT image that has been segmented in the way that was done for the KiTS19 Challenge.
 
-This algorithm has been deployed via grand-challenge. You can run it through the web-based interface [here](https://grand-challenge.org/algorithms/kits19-based-automatic-renal-scoring/).
+This algorithm has been deployed via grand-challenge. You can run it through the web-based interface [here](https://grand-challenge.org/algorithms/kits19-based-automatic-renal-scoring/experiments/create/flex/).
 
 ## Example Output
 
